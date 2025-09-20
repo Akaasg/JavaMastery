@@ -2,7 +2,7 @@ import java.util.*;
 
 class longestsubstring {
     public static void main(String[] args) {
-        String s = "abcabcbb";
+        String s = "pwwkew";
         int maxlength = 0;
         int left = 0;
 
